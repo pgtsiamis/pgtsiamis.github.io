@@ -1,0 +1,50 @@
+body {
+	background-color: lightgrey;
+}
+
+header {
+	background-color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+nav {
+	text-align: center;
+	padding-bottom: 20px;
+	font-size: 15px;
+}
+
+h1 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: black;
+	text-align: center;
+	font-size: 60px;
+	margin-bottom: 10px;
+	margin-top: 30px;
+	padding-top: 10px;
+}
+
+h2 {
+	font-family: Georgia, serif;
+	margin-left: 20px;
+	margin-top: 25px;
+}
+	
+p {
+	font-family: Georgia, serif;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+ul {
+	font-family: Georgia, serif;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+img {
+	margin-left: 20px;
+	margin-right: 20px;
+}
